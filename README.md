@@ -2,13 +2,13 @@
 
 You might be here because you're interested in some of my projects, or even better - you may be interested in hiring me!
 
-## Projects
+## 🐙 Projects
 
 I am currently working on Guide to the Clojure Programming Language aimed at Software Engineers. If you're interested in this, please see below:
 
-* 🐙 [Clojure for Software Engineers](https://github.com/mattmorten/clojure-tutorial)
+* [Clojure for Software Engineers](https://github.com/mattmorten/clojure-tutorial)
 
-## Hiring me
+## 🐧 Hiring me
 
 If you are in need of a Principal Engineer with...
 
@@ -19,4 +19,4 @@ If you are in need of a Principal Engineer with...
 * Knowledge of tuning the JVM to minimize transaction latency for Fintech products
 * Great communication skills with the ability to work across teams and understand and translate business requirements
 
-... then please consider hiring me! My resume is available here
+... then please consider hiring me! My [resume is available here](https://github.com/mattmorten/start-here/blob/main/Matthew%20Morten%20Resume%20-%20March%202022.pdf)
