@@ -8,6 +8,10 @@ I am currently working on Guide to the Clojure Programming Language aimed at Sof
 
 * [Clojure for Software Engineers](https://github.com/mattmorten/clojure-tutorial)
 
+I also maintain an online Guidebook to hiking the Pacific Crest Trail in a Southbound direction (Canada to Mexico):
+
+* [Shrink's SOBO PCT Guide](https://shrinks.guide)
+
 ## 🐧 Hiring me
 
 If you are in need of a Principal Engineer with...
@@ -20,3 +24,5 @@ If you are in need of a Principal Engineer with...
 * Great communication skills with the ability to work across teams and understand and translate business requirements
 
 ... then please consider hiring me! My [resume is available here](https://github.com/mattmorten/start-here/blob/main/Matthew%20Morten%20Resume%20-%20March%202022.pdf)
+
+![PCT 2019](pct.jpg)
